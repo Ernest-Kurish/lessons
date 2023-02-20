@@ -1,0 +1,24 @@
+
+/* RESET STYLES */
+@import url("reset.css");
+
+* span {
+color: aquamarine;
+}
+
+a {
+    color: blueviolet;
+}
+
+.main-title {
+    color: chocolate;
+}
+
+#culture {
+    color: darkgreen;
+}
+
+li.list-title {
+    color: crimson;
+}
+
